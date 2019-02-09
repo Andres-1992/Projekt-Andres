@@ -1,0 +1,12 @@
+C:\Users\tyro0\Desktop\boken\boken\bin\Debug\boken.exe.config
+C:\Users\tyro0\Desktop\boken\boken\bin\Debug\boken.exe
+C:\Users\tyro0\Desktop\boken\boken\bin\Debug\boken.pdb
+C:\Users\tyro0\Desktop\boken\boken\obj\Debug\boken.csprojResolveAssemblyReference.cache
+C:\Users\tyro0\Desktop\boken\boken\obj\Debug\boken.exe
+C:\Users\tyro0\Desktop\boken\boken\obj\Debug\boken.pdb
+C:\Users\tyro0\Desktop\Projekt console app\boken\boken\bin\Debug\boken.exe.config
+C:\Users\tyro0\Desktop\Projekt console app\boken\boken\obj\Debug\boken.exe
+C:\Users\tyro0\Desktop\Projekt console app\boken\boken\obj\Debug\boken.pdb
+C:\Users\tyro0\Desktop\Projekt console app\boken\boken\bin\Debug\boken.exe
+C:\Users\tyro0\Desktop\Projekt console app\boken\boken\bin\Debug\boken.pdb
+C:\Users\tyro0\Desktop\Projekt console app\boken\boken\obj\Debug\boken.csprojResolveAssemblyReference.cache
